@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="MyerMomentThemeColor">#EEC769</color>
+    <color name="MyerMomentThemeDarkColor">#caa64f</color>
+    <color name="MyerMomentThemeDarkLightColor">#ffdf92</color>
+</resources>
